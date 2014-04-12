@@ -9,7 +9,7 @@ npm install node-twitter-api
 
 You'll also need your own config file for your twitter keys.  
 
-Your config file should have the following template and should be in the same directory as nxt.js (the 5 attributes will be given to you once you follow the instructions [here](https://dev.twitter.com/docs/auth/obtaining-access-tokens):  
+Your config file should have the following template and should be in the same directory as nxt.js (the 5 attributes will be given to you once you follow the instructions [here](https://dev.twitter.com/docs/auth/obtaining-access-tokens)):  
 
 var config = {};
 
