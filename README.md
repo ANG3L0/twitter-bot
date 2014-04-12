@@ -13,11 +13,11 @@ Your config file should have the following template and should be in the same di
 
 var config = {};
 
-config.consumerKey = 'consumer key here';
-config.consumerSecret = 'consumer secret here';
-config.accessToken = 'access token here';
-config.accessTokenSecret = 'access token secret here';
-config.emailPass = 'email password here';
+config.consumerKey = 'consumer key here';  
+config.consumerSecret = 'consumer secret here';  
+config.accessToken = 'access token here';  
+config.accessTokenSecret = 'access token secret here';  
+config.emailPass = 'email password here';  
 
 module.exports = config;
 
