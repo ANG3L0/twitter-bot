@@ -3,9 +3,9 @@ Just do:
 node nxt.js  
 
 You'll need to do:  
-npm install email-templates  
-npm install nodemailer  
-npm install node-twitter-api  
+npm install email-templates@0.1.0   
+npm install nodemailer@0.5.2    
+npm install node-twitter-api@1.1.0    
 
 You'll also need your own config file for your twitter keys.  
 
